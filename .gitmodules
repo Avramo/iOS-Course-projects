@@ -1,0 +1,3 @@
+[submodule "my-first-app-ios"]
+	path = my-first-app-ios
+	url = https://github.com/Avramo/my-first-app-ios.git
