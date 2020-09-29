@@ -1,3 +1,90 @@
 [submodule "my-first-app-ios"]
 	path = my-first-app-ios
 	url = https://github.com/Avramo/my-first-app-ios.git
+[submodule "age"]
+	path = age
+	url = https://github.com/Avramo/age-app-ios.git
+[submodule "age-app-ios"]
+	path = age-app-ios
+	url = https://github.com/Avramo/age-app-ios.git
+[submodule "cat-years-ios"]
+	path = cat-years-ios
+	url = https://github.com/Avramo/cat-years-ios.git
+[submodule "how-may-fingers-ios"]
+	path = how-may-fingers-ios
+	url = https://github.com/Avramo/how-may-fingers-ios.git
+[submodule "auto-layout-ios"]
+	path = auto-layout-ios
+	url = https://github.com/Avramo/auto-layout-ios.git
+[submodule "prime-numbers-ios"]
+	path = prime-numbers-ios
+	url = https://github.com/Avramo/prime-numbers-ios.git
+[submodule "menu-bars-ios"]
+	path = menu-bars-ios
+	url = https://github.com/Avramo/menu-bars-ios.git
+[submodule "table-views-ios"]
+	path = table-views-ios
+	url = https://github.com/Avramo/table-views-ios.git
+[submodule "table-view-one-to-fifty-ios"]
+	path = table-view-one-to-fifty-ios
+	url = https://github.com/Avramo/table-view-one-to-fifty-ios.git
+[submodule "times-tables-ios"]
+	path = times-tables-ios
+	url = https://github.com/Avramo/times-tables-ios.git
+[submodule "what-is-my-number-ios"]
+	path = what-is-my-number-ios
+	url = https://github.com/Avramo/what-is-my-number-ios.git
+[submodule "multiple-view-controllers-ios"]
+	path = multiple-view-controllers-ios
+	url = https://github.com/Avramo/multiple-view-controllers-ios.git
+[submodule "controlling-the-keyboard-2-ways-ios"]
+	path = controlling-the-keyboard-2-ways-ios
+	url = https://github.com/Avramo/controlling-the-keyboard-2-ways-ios.git
+[submodule "todo-app-ios"]
+	path = todo-app-ios
+	url = https://github.com/Avramo/todo-app-ios.git
+[submodule "download-web-content-ios"]
+	path = download-web-content-ios
+	url = https://github.com/Avramo/download-web-content-ios.git
+[submodule "weather-app-ios"]
+	path = weather-app-ios
+	url = https://github.com/Avramo/weather-app-ios.git
+[submodule "tic-tac-toe-ios"]
+	path = tic-tac-toe-ios
+	url = https://github.com/Avramo/tic-tac-toe-ios.git
+[submodule "maps-ios"]
+	path = maps-ios
+	url = https://github.com/Avramo/maps-ios.git
+[submodule "animations-larry-ios"]
+	path = animations-larry-ios
+	url = https://github.com/Avramo/animations-larry-ios.git
+[submodule "find-the-users-location-ios"]
+	path = find-the-users-location-ios
+	url = https://github.com/Avramo/find-the-users-location-ios.git
+[submodule "favorite-locations-ios"]
+	path = favorite-locations-ios
+	url = https://github.com/Avramo/favorite-locations-ios.git
+[submodule "favorite-locations-list-N-map-ios"]
+	path = favorite-locations-list-N-map-ios
+	url = https://github.com/Avramo/favorite-locations-list-N-map-ios.git
+[submodule "audio-player-ios"]
+	path = audio-player-ios
+	url = https://github.com/Avramo/audio-player-ios.git
+[submodule "audio-player-pretty-ios"]
+	path = audio-player-pretty-ios
+	url = https://github.com/Avramo/audio-player-pretty-ios.git
+[submodule "swipes-N-shakes"]
+	path = swipes-N-shakes
+	url = https://github.com/Avramo/swipes-N-shakes.git
+[submodule "sound-shaker-ios"]
+	path = sound-shaker-ios
+	url = https://github.com/Avramo/sound-shaker-ios.git
+[submodule "ios-Core-Data-Demo"]
+	path = ios-Core-Data-Demo
+	url = https://github.com/Avramo/ios-Core-Data-Demo.git
+[submodule "launch-splashscreen-animation-ios"]
+	path = launch-splashscreen-animation-ios
+	url = https://github.com/Avramo/launch-splashscreen-animation-ios.git
+[submodule "image-cropper-ios"]
+	path = image-cropper-ios
+	url = https://github.com/Avramo/image-cropper-ios.git
